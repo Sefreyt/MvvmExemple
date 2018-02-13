@@ -1,0 +1,5 @@
+C:\Users\mgregoire\Downloads\MvvmExample\MicroMvvm\bin\Debug\MicroMvvm.dll
+C:\Users\mgregoire\Downloads\MvvmExample\MicroMvvm\bin\Debug\MicroMvvm.pdb
+C:\Users\mgregoire\Downloads\MvvmExample\MicroMvvm\obj\Debug\MicroMvvm.csproj.CoreCompileInputs.cache
+C:\Users\mgregoire\Downloads\MvvmExample\MicroMvvm\obj\Debug\MicroMvvm.dll
+C:\Users\mgregoire\Downloads\MvvmExample\MicroMvvm\obj\Debug\MicroMvvm.pdb

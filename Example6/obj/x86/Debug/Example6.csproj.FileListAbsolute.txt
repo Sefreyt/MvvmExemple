@@ -1,0 +1,17 @@
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\bin\Debug\Example6.exe
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\bin\Debug\Example6.pdb
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\bin\Debug\MicroMvvm.dll
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\bin\Debug\MicroMvvm.pdb
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\obj\x86\Debug\Example6.csprojResolveAssemblyReference.cache
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\obj\x86\Debug\App.g.cs
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\obj\x86\Debug\Example6_MarkupCompile.cache
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\obj\x86\Debug\Example6_MarkupCompile.lref
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\obj\x86\Debug\MainWindow.baml
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\obj\x86\Debug\Example6.g.resources
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\obj\x86\Debug\Example6.Properties.Resources.resources
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\obj\x86\Debug\Example6.csproj.GenerateResource.Cache
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\obj\x86\Debug\Example6.csproj.CoreCompileInputs.cache
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\obj\x86\Debug\Example6.exe
+C:\Users\mgregoire\Downloads\MvvmExample\Example6\obj\x86\Debug\Example6.pdb
